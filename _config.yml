@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
+locale                   : "en-GB"
 title                    : "Naomi Muggleton"
 title_separator          : "-"
 name                     : &name "Naomi Muggleton"
 description              : &description "Post doc at the University of Oxford"
 url                      : https://nmuggleton.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nmuggleton.github.io"
+repository               : "nmuggleton/nmuggleton.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Naomi Muggleton"
   avatar           : "profile.png"
-  bio              : "I'm a behavioural scientist, currently working as a post doctoral researcher in the Department of Social Policy and Intervention, University of Oxford."
-  location         : "Leamington Spa"
+  bio              : "Postdoctoral Researcher"
+  location         : "Leamington Spa, UK"
   employer         : "University of Oxford"
   googlescholar    : "https://scholar.google.co.uk/citations?user=Y6sGy2IAAAAJ&hl=en"
-  email            :
+  email            : "naomi.muggleton@spi.ox.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/naomi-muggleton/"
   orcid            : "https://orcid.org/0000-0002-6462-3237"
   pinterest        :
   soundcloud       :
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
